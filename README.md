@@ -2,14 +2,14 @@
 
 <div align="center">
   
-  <a href="https://github.com/projectdiscovery/nuclei/blob/main/README.md">`English`</a> •
-  <a href="https://github.com/projectdiscovery/nuclei/blob/main/README_CN.md">`中文`</a> •
-  <a href="https://github.com/projectdiscovery/nuclei/blob/main/README_KR.md">`Korean`</a> •
-  <a href="https://github.com/projectdiscovery/nuclei/blob/main/README_ID.md">`Indonesia`</a> •
-  <a href="https://github.com/projectdiscovery/nuclei/blob/main/README_ES.md">`Spanish`</a> •
-  <a href="https://github.com/projectdiscovery/nuclei/blob/main/README_JP.md">`日本語`</a> •
-  <a href="https://github.com/projectdiscovery/nuclei/blob/main/README_PT-BR.md">`Portuguese`</a> •
-  <a href="https://github.com/projectdiscovery/nuclei/blob/main/README_TR.md">`Türkçe`</a>
+  <a href="https://github.com/Unity-Billal-mesloub/nuclei/blob/main/README.md">`English`</a> •
+  <a href="https://github.com/Unity-Billal-mesloub/nuclei/blob/main/README_CN.md">`中文`</a> •
+  <a href="https://github.com/Unity-Billal-mesloub/nuclei/blob/main/README_KR.md">`Korean`</a> •
+  <a href="https://github.com/Unity-Billal-mesloub/nuclei/blob/main/README_ID.md">`Indonesia`</a> •
+  <a href="https://github.com/Unity-Billal-mesloub/nuclei/blob/main/README_ES.md">`Spanish`</a> •
+  <a href="https://github.com/Unity-Billal-mesloub/nuclei/blob/main/README_JP.md">`日本語`</a> •
+  <a href="https://github.com/Unity-Billal-mesloub/nuclei/blob/main/README_PT-BR.md">`Portuguese`</a> •
+  <a href="https://github.com/Unity-Billal-mesloub/nuclei/blob/main/README_TR.md">`Türkçe`</a>
   
 </div>
 
@@ -113,7 +113,7 @@ Browse the full Nuclei [**`documentation here`**](https://docs.projectdiscovery.
 `nuclei` requires **go >= 1.24.2** to install successfully. Run the following command to get the repo:
 
 ```sh
-go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+go install -v github.com/Unity-Billal-mesloub/nuclei/v3/cmd/nuclei@latest
 ```
 
 To learn more about installing nuclei, see `https://docs.projectdiscovery.io/tools/nuclei/install`.
@@ -436,11 +436,11 @@ nuclei -target https://example.com -dashboard
 <br>
 
 ## Nuclei Templates, Community and Rewards 💎
-[**Nuclei templates**](https://github.com/projectdiscovery/nuclei-templates) are based on the concepts of YAML based template files that define how the requests will be sent and processed. This allows easy extensibility capabilities to nuclei. The templates are written in YAML which specifies a simple human-readable format to quickly define the execution process.
+[**Nuclei templates**](https://github.com/Unity-Billal-mesloub/nuclei-templates) are based on the concepts of YAML based template files that define how the requests will be sent and processed. This allows easy extensibility capabilities to nuclei. The templates are written in YAML which specifies a simple human-readable format to quickly define the execution process.
 
 **Try it online with our free AI powered Nuclei Templates Editor by** [**`clicking here`**](https://cloud.projectdiscovery.io/templates).
 
-Nuclei Templates offer a streamlined way to identify and communicate vulnerabilities, combining essential details like severity ratings and detection methods. This open-source, community-developed tool accelerates threat response and is widely recognized in the cybersecurity world. Nuclei templates are actively contributed by thousands of security researchers globally. We run two programs for our contributors: [**`Pioneers`**](https://projectdiscovery.io/pioneers) and [**`💎 bounties`**](https://github.com/projectdiscovery/nuclei-templates/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22%F0%9F%92%8E%20Bounty%22).
+Nuclei Templates offer a streamlined way to identify and communicate vulnerabilities, combining essential details like severity ratings and detection methods. This open-source, community-developed tool accelerates threat response and is widely recognized in the cybersecurity world. Nuclei templates are actively contributed by thousands of security researchers globally. We run two programs for our contributors: [**`Pioneers`**](https://projectdiscovery.io/pioneers) and [**`💎 bounties`**](https://github.com/Unity-Billal-mesloub/nuclei-templates/issues).
 
 
 <p align="left">
@@ -478,14 +478,14 @@ Traditional vulnerability scanners were built decades ago. They are closed-sourc
 
 We built Nuclei to solve this challenge. We made the entire scanning engine framework open and customizable—allowing the global security community to collaborate and tackle the trending attack vectors and vulnerabilities on the internet. Nuclei is now used and contributed by Fortune 500 enterprises, government agencies, universities.
 
-You can participate by contributing to our code, [**`templates library`**](https://github.com/projectdiscovery/nuclei-templates), or [**`joining our team`**](https://projectdiscovery.io/).
+You can participate by contributing to our code, [**`templates library`**](https://github.com/Unity-Billal-mesloub/nuclei-templates), or [**`joining our team`**](https://projectdiscovery.io/).
 
 <br>
 <br>
 
 ## Contributors :heart:
 
-Thanks to all the amazing [**`community contributors for sending PRs`**](https://github.com/projectdiscovery/nuclei/graphs/contributors) and keeping this project updated. :heart:
+Thanks to all the amazing [**`community contributors for sending PRs`**](https://github.com/Unity-Billal-mesloub/nuclei/graphs/contributors) and keeping this project updated. :heart:
 
 <p align="left">
 <a href="https://github.com/Ice3man543"><img src="https://avatars.githubusercontent.com/u/22318055?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
@@ -659,6 +659,4 @@ Thanks to all the amazing [**`community contributors for sending PRs`**](https:/
 
 <div align="center">
   
-  <sub>**`nuclei`** is distributed under [**MIT License**](https://github.com/projectdiscovery/nuclei/blob/main/LICENSE.md)</sub>
-
-</div>
+  
